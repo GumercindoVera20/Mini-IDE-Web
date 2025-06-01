@@ -4,6 +4,7 @@
 - **Estudiante:** Gumercindo Vera Santiago
 - **Materia:** Lenguajes y Autómatas II
 - **Profesor:** Kevin David Molina Gomez
+- **Universidad:** Instituto Tecnológico de Minatitlán
 - **Semestre:** 6
 
 ## Instrucciones para Ejecutar el Proyecto ⚡
