@@ -1,4 +1,4 @@
-# Mini IDE Web - Analizador Léxico y Sintáctico 🚀
+# Mini IDE Web - Analizador Léxico, Sintáctico y Máquina de Turing🚀
 
 ## Datos del Estudiante y Materia 📚
 - **Estudiante:** Gumercindo Vera Santiago
