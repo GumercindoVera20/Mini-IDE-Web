@@ -2,7 +2,7 @@
 
 ## Datos del Estudiante y Materia 📚
 - **Estudiante:** Gumercindo Vera Santiago
-- **Materia:** Lenguajes y Autómatas II
+- **Materia:** Lenguajes y Autómatas I
 - **Profesor:** Kevin David Molina Gomez
 - **Universidad:** Instituto Tecnológico de Minatitlán
 - **Semestre:** 6
